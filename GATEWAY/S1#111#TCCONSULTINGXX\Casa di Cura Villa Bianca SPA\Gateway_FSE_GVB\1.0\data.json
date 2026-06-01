@@ -1,1 +1,178 @@
-
+{
+    "appVendor": "Casa di Cura Villa Bianca SPA",
+    "appID": "Gateway_FSE_GVB",
+    "appVersion": "1.0",
+    "results": [
+        {
+            "id": 32,
+            "ts": "2026-05-28T12:48:33Z",
+            "traceId": "3a61cb985c445d6a4b8d4f6b56a9f349",
+            "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
+            "files": [
+                "Test_VALIDAZIONE_TOKEN_JWT_RSA_KO.pdf"
+            ]
+        },
+		{
+            "id": 40,
+            "ts": "2026-05-28T12:55:59Z",
+            "traceId": "ea541824d428e54d3255951d43f795c9",
+            "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
+            "files": [
+                "VALIDAZIONE_TOKEN_JWT_CAMPO_RSA_KO.pdf"
+            ]
+        },
+		{
+            "id": ,
+            "ts": "2026-05-28T12:55:59Z",
+            "traceId": "ea541824d428e54d3255951d43f795c9",
+            "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
+            "files": [
+                
+            ]
+        },
+		{
+            "id": 152,
+            "ts": "2026-05-28T13:03:25Z",
+            "traceId": "48995b67847a8cd749ebc22c05a58576",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.99.a2730bb3e87c95f783ea3fb3908f2b318a68accec846136946470727a44cc5b1.a4fbc6e3f1^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "VALIDAZIONE_CDA2_RSA_CT6_KO.pdf"
+            ]
+        },
+		{
+            "id": 154,
+            "ts": "2026-05-28T13:14:05Z",
+            "traceId": "fbd6805a103ba281cb5570c7e54f70a6",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.99.a2730bb3e87c95f783ea3fb3908f2b318a68accec846136946470727a44cc5b1.0c2861fc80^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "VALIDAZIONE_CDA2_RSA_CT8_KO.pdf"
+            ]
+        },
+		{
+            "id": 155,
+            "ts": "2026-05-28T14:43:36Z",
+            "traceId": "b974d06998f39b9327ccdf2862b2d407",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.99.a2730bb3e87c95f783ea3fb3908f2b318a68accec846136946470727a44cc5b1.3d29a5478a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "VALIDAZIONE_CDA2_RSA_CT9_KO.pdf"
+            ]
+        },
+		{
+            "id":160 ,
+            "ts": "2026-05-29T10:45:03Z",
+            "traceId": "7916889669850fec2e6a4eac9067c18c",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.99.a2730bb3e87c95f783ea3fb3908f2b318a68accec846136946470727a44cc5b1.4ffaea28f2^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "VALIDAZIONE_CDA2_RSA_CT14_KO.pdf"
+            ]
+        },
+		{
+            "id": 161,
+            "ts": "2026-05-29T12:44:24Z",
+            "traceId": "dbdab878a1eeb921491f2756ba5c8def",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.99.a2730bb3e87c95f783ea3fb3908f2b318a68accec846136946470727a44cc5b1.e2ccee1a3c^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "VALIDAZIONE_CDA2_RSA_CT15_KO.pdf"
+            ]
+        },
+		{
+            "id": 163,
+            "ts": "2026-05-29T13:02:59Z",
+            "traceId": "eacb09b62d0a583313c7ae696c2f59ff",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.99.a2730bb3e87c95f783ea3fb3908f2b318a68accec846136946470727a44cc5b1.78a347455f^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "VALIDAZIONE_CDA2_RSA_CT17_KO.pdf"
+            ]
+        },
+		{
+            "id": 448,
+            "ts": "2026-05-29T13:33:04Z",
+            "traceId": "d3bcc053dab54bc791ffe0702c094fbc",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.99.a2730bb3e87c95f783ea3fb3908f2b318a68accec846136946470727a44cc5b1.a92a31b396^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "VALIDAZIONE_CDA2_RSA_CT24.pdf"
+            ]
+        },
+		{
+            "id":29,
+            "ts": "2026-05-29T14:45:38Z",
+            "traceId": "1652a41c5d0d98e9dc5063d5b9651183",
+            "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
+            "files": [
+                "VALIDAZIONE_TOKEN_JWT_LDO_KO.pdf"
+            ]
+        },
+		{
+            "id":37,
+            "ts": "2026-05-29T14:55:44Z",
+            "traceId": "e4e2148afbae4903c59f59d9a7cfd724",
+            "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
+            "files": [
+                "VALIDAZIONE_TOKEN_JWT_CAMPO_LDO_KO.pdf"
+            ]
+        },
+		{
+            "id":64,
+            "ts": "2026-05-29T15:06:17Z",
+            "traceId": "5a917ebfa0de518c2aa4c074e87ceb90",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.99999.5169234a22f59f8b75caa3a0e33fb5200d1440738a73074f8194e5c904e88fb5.45c95a48f9^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "VALIDAZIONE_CDA2_LDO_CT6_KO.pdf"
+            ]
+        },
+		{
+            "id":66,
+            "ts": "2026-05-29T15:21:07Z",
+            "traceId": "d5c76a5977030708a74842e76c38645e",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.99999.5169234a22f59f8b75caa3a0e33fb5200d1440738a73074f8194e5c904e88fb5.dc5a5fcf4d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "VALIDAZIONE_CDA2_LDO_CT8_KO.pdf"
+            ]
+        },
+		{
+            "id":67,
+            "ts": "2026-05-29T15:39:04Z",
+            "traceId": "70cc75327fcf6662a1a8afd32bd67a02",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.99999.5169234a22f59f8b75caa3a0e33fb5200d1440738a73074f8194e5c904e88fb5.22baf9d7ad^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "VALIDAZIONE_CDA2_LDO_CT9_KO.pdf"
+            ]
+        },
+		{
+            "id":69,
+            "ts": "2026-05-29T15:57:17Z",
+            "traceId": "1214ee19b2c8df826544132a3fe84619",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.99999.5169234a22f59f8b75caa3a0e33fb5200d1440738a73074f8194e5c904e88fb5.43ecd96f45^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "VALIDAZIONE_CDA2_LDO_CT11_KO.pdf"
+            ]
+        },
+		{
+            "id":70,
+            "ts": "2026-05-29T16:06:16Z",
+            "traceId": "ab20c903d20ad259a18525be78797d6e",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.99999.5169234a22f59f8b75caa3a0e33fb5200d1440738a73074f8194e5c904e88fb5.bfb80af5b1^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "VALIDAZIONE_CDA2_LDO_CT12_KO.pdf"
+            ]
+        },
+		{
+            "id":73,
+            "ts": "2026-05-29T16:26:12Z",
+            "traceId": "7fbb4318f8409b773f1e97987c877ee0",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.99999.5169234a22f59f8b75caa3a0e33fb5200d1440738a73074f8194e5c904e88fb5.98ef401c4f^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "VALIDAZIONE_CDA2_LDO_CT15_KO.pdf"
+            ]
+        },
+		{
+            "id":450,
+            "ts": "2026-05-29T16:38:55Z",
+            "traceId": "172a46e859bef43152ee86ad8c1d3b5a",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.99999.5169234a22f59f8b75caa3a0e33fb5200d1440738a73074f8194e5c904e88fb5.5f3ad4cfc0^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "VALIDAZIONE_CDA2_LDO_CT17.pdf"
+            ]
+        }
+    ]
+}
